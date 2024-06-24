@@ -1,2 +1,3 @@
 # Predictive-Modeling
-Site visit prediction for next month using SARIMAX 
+Next month's site visit predictive model using SARIMAX 
+
